@@ -1,0 +1,25 @@
+/home/austenmack/Desktop/P2/bin/Debug/netcoreapp3.1/P2
+/home/austenmack/Desktop/P2/bin/Debug/netcoreapp3.1/P2.deps.json
+/home/austenmack/Desktop/P2/bin/Debug/netcoreapp3.1/P2.runtimeconfig.json
+/home/austenmack/Desktop/P2/bin/Debug/netcoreapp3.1/P2.runtimeconfig.dev.json
+/home/austenmack/Desktop/P2/bin/Debug/netcoreapp3.1/P2.dll
+/home/austenmack/Desktop/P2/bin/Debug/netcoreapp3.1/P2.pdb
+/home/austenmack/Desktop/P2/obj/Debug/netcoreapp3.1/P2.csprojAssemblyReference.cache
+/home/austenmack/Desktop/P2/obj/Debug/netcoreapp3.1/P2.AssemblyInfoInputs.cache
+/home/austenmack/Desktop/P2/obj/Debug/netcoreapp3.1/P2.AssemblyInfo.cs
+/home/austenmack/Desktop/P2/obj/Debug/netcoreapp3.1/P2.csproj.CoreCompileInputs.cache
+/home/austenmack/Desktop/P2/obj/Debug/netcoreapp3.1/P2.dll
+/home/austenmack/Desktop/P2/obj/Debug/netcoreapp3.1/P2.pdb
+/home/austenmack/Desktop/P2/obj/Debug/netcoreapp3.1/P2.genruntimeconfig.cache
+/Users/austenmack/MCS Projects/539 Crypto/P2/bin/Debug/netcoreapp3.1/P2.deps.json
+/Users/austenmack/MCS Projects/539 Crypto/P2/bin/Debug/netcoreapp3.1/P2.runtimeconfig.json
+/Users/austenmack/MCS Projects/539 Crypto/P2/bin/Debug/netcoreapp3.1/P2.runtimeconfig.dev.json
+/Users/austenmack/MCS Projects/539 Crypto/P2/bin/Debug/netcoreapp3.1/P2.dll
+/Users/austenmack/MCS Projects/539 Crypto/P2/bin/Debug/netcoreapp3.1/P2.pdb
+/Users/austenmack/MCS Projects/539 Crypto/P2/obj/Debug/netcoreapp3.1/P2.csprojAssemblyReference.cache
+/Users/austenmack/MCS Projects/539 Crypto/P2/obj/Debug/netcoreapp3.1/P2.AssemblyInfoInputs.cache
+/Users/austenmack/MCS Projects/539 Crypto/P2/obj/Debug/netcoreapp3.1/P2.AssemblyInfo.cs
+/Users/austenmack/MCS Projects/539 Crypto/P2/obj/Debug/netcoreapp3.1/P2.csproj.CoreCompileInputs.cache
+/Users/austenmack/MCS Projects/539 Crypto/P2/obj/Debug/netcoreapp3.1/P2.dll
+/Users/austenmack/MCS Projects/539 Crypto/P2/obj/Debug/netcoreapp3.1/P2.pdb
+/Users/austenmack/MCS Projects/539 Crypto/P2/obj/Debug/netcoreapp3.1/P2.genruntimeconfig.cache
